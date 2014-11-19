@@ -6,6 +6,8 @@ This is the first application for [*Ruby on Rails*](http://rubyonrails.org) in a
 This README file contains the tutorial information and process of this repository creation.  
 All files creates with Ruby 2.1.5 and Debian Linux 7 "Wheezy".  
 
+Created by ArmedAres from ArmedEntertainment.
+
 Prerequisites:  
 --------------
 [Ruby on Rails](http://rubyonrails.org) **Installed**.  
